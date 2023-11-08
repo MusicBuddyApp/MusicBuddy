@@ -79,7 +79,8 @@ The Music Buddy is a free, easy-to-use, mobile music companion that suggests new
     
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![wireframe](https://github.com/MusicBuddyApp/MusicBuddy/assets/118405066/4aed1db4-0f5f-4589-aabf-bb6dab18b6ce)
+
 
 <br>
 
