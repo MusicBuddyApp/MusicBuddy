@@ -99,6 +99,7 @@ The Music Buddy is a free, easy-to-use, mobile music companion that suggests new
 [Add screenshot of your Project Board with three milestones visible in
 this section]
 <img src="milestones.JPG" width=600>
+<img src="dates.JPG" width=600>
 
 ## Issue cards
   **Screenshot is of both current and future issues.**
