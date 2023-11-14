@@ -101,7 +101,7 @@ this section]
 <img src="milestones.JPG" width=600>
 
 ## Issue cards
-  ** Screenshot is of both current and future issues. **
+  **Screenshot is of both current and future issues.**
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="pBoard.JPG" width=600>
 
 ## Issues worked on this sprint
