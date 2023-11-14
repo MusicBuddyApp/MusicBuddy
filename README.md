@@ -34,9 +34,9 @@ The Music Buddy is a free, easy-to-use, mobile music companion that suggests new
 
 **Required Features**
 
-1. Display Trending music and genres.
-2. User is able to search for a specific song. 
-3. App displays information about that song such as: lyrics, artist, song name.
+- [ ] Display Trending music and genres.
+- [ ] User is able to search for a specific song. 
+- [ ] App displays information about that song such as: lyrics, artist, song name.
 
 **Optional Features**
 
