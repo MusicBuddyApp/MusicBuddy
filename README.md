@@ -108,8 +108,8 @@ this section]
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint
-<img src="search_screen_build_demo.mov" width=600>
 - [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+<img src="search_screen_build_demo.mov" width=600>
 
 <br>
 
