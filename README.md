@@ -125,7 +125,7 @@ this section]
 from the original requirements
 
 [Add video/gif of your current application that shows build progress]
-<img src="search_screen_build_demo" width=600>
+<img src="search_screen_build_demo.mov" width=600>
 
 ## App Demo Video
 
