@@ -61,9 +61,9 @@ The Music Buddy is a free, easy-to-use, mobile music companion that suggests new
 
 **Tab Navigation** (Tab to Screen)
 
-[x] [Home Screen]
-[x] [Search Screen]
-[x] [Favorites Page]
+- [x] [Home Screen]
+- [x] [Search Screen]
+- [x] [Favorites Page]
 
 **Flow Navigation** (Screen to Screen)
 
