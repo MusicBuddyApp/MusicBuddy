@@ -118,7 +118,7 @@ this section]
 
 ## GitHub Project board
 
-<img src=" <img width="708" alt="Screen Shot 2023-12-05 at 12 05 26 AM" src="https://github.com/MusicBuddyApp/MusicBuddy/assets/118405066/e4df1df2-4462-44f6-98d4-67e71f357165" width=600>
+<img width="708" alt="Screen Shot 2023-12-05 at 12 05 26 AM" src="https://github.com/MusicBuddyApp/MusicBuddy/assets/118405066/e4df1df2-4462-44f6-98d4-67e71f357165" width=600>
 
 ## Completed user stories
 
