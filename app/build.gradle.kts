@@ -52,4 +52,11 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
+    // retrofit dependency android (https://square.github.io/retrofit/)
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    // gson converter
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+    // loading images
+    implementation("com.squareup.picasso:picasso:2.8")
+
 }
