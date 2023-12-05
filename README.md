@@ -10,8 +10,6 @@
 
 ### Description
 
-<img src="musicbuddyDEMO.gif">
-
 The Music Buddy is a free, easy-to-use, mobile music companion that suggests new, upcoming, and popular music. This includes information like the song title, artist, and even the song lyrics. Stay tuned with your Music Buddy!
 
 ### App Evaluation
@@ -133,4 +131,6 @@ from the original requirements
 
 ## App Demo Video
 
-- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+
+[MusicBuddy Demo (Made with ClipChamp)](https://clipchamp.com/watch/LVzIfNa7nn9)
+<img src="musicbuddyDEMO.gif">
