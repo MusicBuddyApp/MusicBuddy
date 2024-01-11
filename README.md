@@ -1,3 +1,8 @@
+## App Demo Video
+
+[MusicBuddy Demo (Made with ClipChamp)](https://clipchamp.com/watch/LVzIfNa7nn9)
+<img src="musicbuddyDEMO.gif">
+
 # Milestone 1 - Music Buddy (Unit 7)
 
 ## Table of Contents
@@ -89,7 +94,3 @@ The Music Buddy is a free, easy-to-use, mobile music companion that suggests new
 
 <img src="" width=600>
 
-## App Demo Video
-
-[MusicBuddy Demo (Made with ClipChamp)](https://clipchamp.com/watch/LVzIfNa7nn9)
-<img src="musicbuddyDEMO.gif">
