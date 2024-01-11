@@ -30,89 +30,56 @@ The Music Buddy is a free, easy-to-use, mobile music companion that suggests new
 
 ## Product Spec
 
-### 1. User Features (Required and Optional)
+### 1. User Features
 
-**Required Features**
+**Features**
 
 - [x] Display Trending music and genres.
 - [x] User is able to search for a specific artist.
 - [x] App plays a small portion of the song
-
-**Optional Features**
-
-1. User is able to save songs to a personal library.
-2. User is able to view the album/song cover.
-3. Preview the song.
-
+      
 ### 2. Screen Archetypes
 
 - [Home Screen]
   - Users would see a list of popular music 
-  - Users can see different genres of music 
 - [Search]
-  - Users can search for music 
-- [Music Info Screen]
-  - Users can see artist name, song title, album
-- [Favorites Page]
-  - Users can view their saved music 
-  
-
+  - Users can search for music
+    
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-- [x] [Home Screen]
+- [x] [Home Screen] 
 - [x] [Search Screen]
-- [ ] [Favorites Page]
 
 **Flow Navigation** (Screen to Screen)
 
 - [Home Screen]
-  - When the user selects an item on the Music Feed, they are directed to the corresponding Music Info Screen
+  - When the user loads the app they are shown a list of songs from popular artists.
  
 - [Search Screen]
-  - When a user selects an option in the search screen, they are directed to a Music Info Screen
-  
-- [Music Screen]
-  - Plus button allows user to add the song to their favorites.
+  - When a user searches they are directed to a Search Screen
  
     
-## Wireframes
+## Wireframes (concepts)
 
 ![wireframe](https://github.com/MusicBuddyApp/MusicBuddy/assets/118405066/4aed1db4-0f5f-4589-aabf-bb6dab18b6ce)
-
-
-<br>
-
-<br>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
-
-<br>
 
 # Milestone 2 - Build Sprint 1 (Unit 8)
 
 ## GitHub Project board
-
-[Add screenshot of your Project Board with three milestones visible in
-this section]
 <img src="milestones.JPG" width=600>
 <img src="dates.JPG" width=600>
 
 ## Issue cards
   **Screenshot is of both current and future issues.**
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="pBoard.JPG" width=600>
+ <img src="pBoard.JPG" width=600>
 
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
 <img src="demo.gif" width=600>
 <img src="searchScreenDemo.gif" width=600>
-
-<br>
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
 
@@ -120,17 +87,9 @@ this section]
 
 <img width="708" alt="Screen Shot 2023-12-05 at 12 05 26 AM" src="https://github.com/MusicBuddyApp/MusicBuddy/assets/118405066/e4df1df2-4462-44f6-98d4-67e71f357165" width=600>
 
-## Completed user stories
-
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
-
-[Add video/gif of your current application that shows build progress]
 <img src="" width=600>
 
 ## App Demo Video
-
 
 [MusicBuddy Demo (Made with ClipChamp)](https://clipchamp.com/watch/LVzIfNa7nn9)
 <img src="musicbuddyDEMO.gif">
